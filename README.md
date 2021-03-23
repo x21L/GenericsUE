@@ -6,6 +6,7 @@ Now it is time to prove him wrong (once again).
 
 ---
 >**Task:** 
+
 Rewrite the class as abstract as possible and use generics to do calculations with different data types.
 Try your implementation also with wrapper classes.
 
